@@ -1,10 +1,10 @@
-package com.starter.vvk;
+package com.starter.usermanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VvkApplicationTests {
+class UserManagementServiceTests {
 
 	@Test
 	void contextLoads() {
